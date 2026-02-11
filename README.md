@@ -25,3 +25,5 @@ I began my journey with CS50x (Harvard's Introduction to Computer Science), wher
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/youssef-elkawas
+- Gmail: youssef.elkawas.dev@gmail.com
+- Phone no.: +201550202828
