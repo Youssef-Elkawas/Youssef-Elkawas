@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Youssef-Elkawas/Youssef-Elkawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Youssef Elkawas — a self-taught software development student passionate about building real-world web applications.
 
-Here are some ideas to get you started:
+I began my journey with CS50x (Harvard's Introduction to Computer Science), where I built a strong foundation in problem-solving, backend development, and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Focused On
+- Improving my full-stack web development skills  
+- Building practical projects using Flask and SQL  
+- Learning modern frontend technologies step by step  
+
+## 🛠 Tech Stack
+- Python  
+- Flask  
+- HTML  
+- CSS  
+- SQL  
+- Basic JavaScript  
+
+## 🎯 Goals
+- Build scalable web applications  
+- Strengthen backend architecture skills  
+- Grow into a solid full-stack developer  
+- Build a strong personal brand based on real skills  
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/youssef-elkawas
