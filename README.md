@@ -1,29 +1,66 @@
 ## Hi there 👋
 
-I'm Youssef Elkawas — a self-taught software development student passionate about building real-world web applications.
+I'm Youssef Elkawas — a student from Egypt who is passionate about software development and building real systems.
 
-I began my journey with CS50x (Harvard's Introduction to Computer Science), where I built a strong foundation in problem-solving, backend development, and web technologies.
+Right now I'm at the beginning of my journey, focusing on learning web development step by step and turning what I learn into real projects.
 
-## 🚀 What I'm Currently Focused On
-- Improving my full-stack web development skills  
-- Building practical projects using Flask and SQL  
-- Learning modern frontend technologies step by step  
+I believe the best way to learn programming is by building, improving, and sharing the process honestly.
 
-## 🛠 Tech Stack
-- Python  
-- Flask  
-- HTML  
-- CSS  
-- SQL  
-- Basic JavaScript  
+---
 
-## 🎯 Goals
-- Build scalable web applications  
-- Strengthen backend architecture skills  
-- Grow into a solid full-stack developer  
-- Build a strong personal brand based on real skills  
+## 🚀 Current Focus
+
+I'm currently focusing on learning the fundamentals of web development and building projects along the way.
+
+My approach is simple:
+
+Learn → Build → Improve → Repeat.
+
+---
+
+## 📚 Learning Roadmap
+
+Here is the path I'm currently following:
+
+* HTML fundamentals ✅
+* CSS fundamentals *(Expected)*
+* Responsive design *(Expected)*
+* JavaScript fundamentals *(Expected)*
+* DOM manipulation *(Expected)*
+* React *(Expected)*
+* Backend development *(Expected)*
+* Databases *(Expected)*
+* Full-stack applications *(Expected)*
+
+I remove **(Expected)** once I complete and apply the skill in a real project.
+
+---
+
+## 🧱 Current Project
+
+I am building a long-term evolving project called **Elkawas.Dev**.
+
+The idea is simple:
+keep improving the same project as I learn new technologies.
+
+From simple HTML pages today → to a full-stack system in the future.
+
+---
+
+## 🎯 Long-Term Goal
+
+My goal is to grow from:
+
+Developer → Builder → Founder.
+
+I want to build real software systems, SaaS products, and eventually create my own technology company.
+
+---
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/youssef-elkawas
-- Gmail: youssef.elkawas.dev@gmail.com
-- Phone no.: +201550202828
+
+LinkedIn
+https://www.linkedin.com/in/youssef-elkawas
+
+Email
+[youssef.elkawas.dev@gmail.com](mailto:youssef.elkawas.dev@gmail.com)
