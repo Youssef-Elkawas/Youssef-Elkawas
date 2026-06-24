@@ -23,11 +23,11 @@ Learn → Build → Improve → Repeat.
 Here is the path I'm currently following:
 
 * HTML fundamentals ✅
-* CSS fundamentals *(Expected)*
-* Responsive design *(Expected)*
-* JavaScript fundamentals *(Expected)*
-* DOM manipulation *(Expected)*
-* React *(Expected)*
+* CSS fundamentals ✅
+* Responsive design ✅
+* JavaScript fundamentals ✅
+* DOM manipulation ✅
+* React ✅
 * Backend development *(Expected)*
 * Databases *(Expected)*
 * Full-stack applications *(Expected)*
